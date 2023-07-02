@@ -1,2 +1,4 @@
 # trial1
-Practice to git gud
+Practice to git gud.
+
+Basic git practice project.
